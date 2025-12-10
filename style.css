@@ -1,9 +1,14 @@
 body {
-    font-family: "Arial", "sans-serif";
+    font-family: "Tahoma", "sans-serif";
     margin: 1in;
 }
 
 h1 {
     font-family: 'Georgia', "serif";
+}
+
+p {
+    text-align: justify;
+    line-height: 1.0;
 }
 
